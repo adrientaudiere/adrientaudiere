@@ -1,7 +1,11 @@
 ### Hi there 👋
+<div align="center">
 [![:name status badge](https://adrientaudiere.r-universe.dev/badges/:name?color=orange)](https://adrientaudiere.r-universe.dev/)
+<div align="center">
 
-<div align="left">
+<h3> I work with </h3>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
