@@ -1,6 +1,11 @@
-### Hi there 👋
+
 <div align="center">
-[![:name status badge](https://adrientaudiere.r-universe.dev/badges/:name?color=orange)](https://adrientaudiere.r-universe.dev/)
+ <h2> Hi there 👋 </h2>
+  
+  ###
+  
+  <a href="https://adrientaudiere.r-universe.dev/"><img src="https://adrientaudiere.r-universe.dev/badges/:name?color=orange" alt="r-universe badge"/></a>
+
 <div align="center">
 
 <h3> I work with </h3>
