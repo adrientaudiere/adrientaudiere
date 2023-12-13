@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
+<!--
 ###
 
 <div align="center">
@@ -32,6 +33,8 @@
 </div>
 
 ###
+
+-->
 
 <!--
 **adrientaudiere/adrientaudiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
