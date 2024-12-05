@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-https://github-profile-trophy.vercel.app/?username=adrientaudiere&theme=monokai&row=2&column=4
+[![trophy](https://github-profile-trophy.vercel.app/?username=adrientaudiere&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ###
