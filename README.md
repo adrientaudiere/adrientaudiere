@@ -1,6 +1,8 @@
 
 <div align="center">
  <h2> Hi there 👋 </h2>
+
+I'm available to work on your ecology datasets, particularly for analyses involving metabarcoding. Please contact me at adrien.taudiere_at_zaclys.net.
   
   ###
   
